@@ -1,0 +1,13 @@
+Datum von:;2021-04-01
+Datum bis:;2021-04-30
+Buchungsart:;Alle Buchungen
+Konto:;CH4100000000000000000
+Währung:;CHF
+
+Buchungsdatum;Avisierungstext;Gutschrift in CHF;Lastschrift in CHF;Valuta;Saldo in CHF
+2021-04-30;"KAUF/DIENSTLEISTUNG VOM 30.04.2021 KARTEN NR. XXXX1234 MIGROS BASEL Schweiz ";;-8.80;2021-04-30;
+2021-04-25;"GUTSCHRIFT AUFTRAGGEBER: Example AG REFERENZEN: NOTPROVIDED 12312312312/5XXX 123456CH09G3MNGH ";2800.00;;2021-04-25;101000.00
+2021-04-23;"KAUF/DIENSTLEISTUNG VOM 23.04.2021 KARTEN NR. XXXX1234 MIGROS BASEL Schweiz ";;-12.90;2021-04-23;100000.00
+
+Disclaimer:
+Dies ist kein durch PostFinance AG erstelltes Dokument. PostFinance AG ist nicht verantwortlich für den Inhalt.
