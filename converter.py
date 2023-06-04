@@ -18,7 +18,7 @@ with open(input_csv_filename, 'r', encoding='utf-8') as input_csv:
         # Ignore the first 7 lines (because they are not transactions)
         for row in islice(csv_reader, 7, None):
             # If the row is not a valid transaction, skip it
-            if len(row) != 6:
+            if len(row) < 5:
                 continue
 
             # Columns in the output CSV (http://homebank.free.fr/help/misc-csvformat.html):
