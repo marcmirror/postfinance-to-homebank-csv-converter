@@ -1,3 +1,5 @@
+# This is a read-only mirror of the git repo at https://codeberg.org/marc/postfinance-to-homebank-csv-converter
+
 # PostFinance to HomeBank CSV converter
 
 A _very_ simple script that converts a PostFinance CSV export containing transactions to a CSV which can be imported to
